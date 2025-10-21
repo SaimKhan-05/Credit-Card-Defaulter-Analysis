@@ -128,14 +128,13 @@ plt.show()
 * Identify high-risk profiles earlier
 * Enable smarter credit & collection strategies
 
----
+
 
 ## 🔗 Resources
 
 📄 Full Colab Notebook: [Google Colab Link](https://colab.research.google.com/drive/1zk1mQhbN24POsVmTskq6FlKHkkxdAH-N)
 
-    https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/UCI_Credit_Card.csv. 
----
+https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/UCI_Credit_Card.csv. 
 
 ## 🧠 Key Takeaway
 
