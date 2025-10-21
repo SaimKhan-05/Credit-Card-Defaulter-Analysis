@@ -134,6 +134,7 @@ plt.show()
 
 📄 Full Colab Notebook: [Google Colab Link](https://colab.research.google.com/drive/1zk1mQhbN24POsVmTskq6FlKHkkxdAH-N)
 
+    https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/UCI_Credit_Card.csv. 
 ---
 
 ## 🧠 Key Takeaway
