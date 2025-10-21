@@ -144,4 +144,5 @@ plt.show()
 ## 🖥️ Dashboard
 
 A Power BI dashboard was created showing key KPIs, defaulter trends, and customer segmentation for dynamic decision-making. 
+https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/XYZ%20Bank%20Dashboard.pbix. 
  
