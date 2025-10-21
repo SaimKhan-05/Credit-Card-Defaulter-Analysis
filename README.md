@@ -144,5 +144,6 @@ plt.show()
 ## 🖥️ Dashboard
 
 A Power BI dashboard was created showing key KPIs, defaulter trends, and customer segmentation for dynamic decision-making.
-
+   "C:\Users\saim khan\OneDrive\Pictures\Screenshots\Screenshot 2025-10-21 105526.png" 
 ---
+
