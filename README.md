@@ -134,6 +134,7 @@ plt.show()
 
 📄 Full Colab Notebook: [Google Colab Link](https://colab.research.google.com/drive/1zk1mQhbN24POsVmTskq6FlKHkkxdAH-N)
 
+📄 Excel File:
 https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/UCI_Credit_Card.csv. 
 
 ## 🧠 Key Takeaway
@@ -145,4 +146,6 @@ https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/UCI_Cred
 
 A Power BI dashboard was created showing key KPIs, defaulter trends, and customer segmentation for dynamic decision-making. 
 https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/XYZ%20Bank%20Dashboard.pbix. 
- 
+
+ <img width="1330" height="730" alt="Screenshot 2025-10-21 105526 - Copy" src="https://github.com/user-attachments/assets/084b929d-fa3c-4f60-88d8-73054a5358e5" />
+
