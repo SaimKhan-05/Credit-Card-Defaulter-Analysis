@@ -2,7 +2,7 @@ Here’s a **GitHub-ready descriptive report** you can use directly in your repo
 
 ---
 
-# 💳 Credit Card Default Prediction — Insight Report
+#  Credit Card Default Prediction — Insight Report
 
 **Prepared by:** Abdul Saim Khan
 **Role:** Data Analyst
@@ -11,9 +11,9 @@ Here’s a **GitHub-ready descriptive report** you can use directly in your repo
 
 ---
 
-## 📘 Project Overview
+##  Project Overview
 
-### 🧩 Business Problem
+###  Business Problem
 
 XYZ Bank aims to reduce credit losses by identifying customers likely to default on credit card payments **before** they miss due dates.
 
@@ -29,7 +29,7 @@ Predict potential defaulters in advance to:
 
 ---
 
-## 📊 Data Overview
+##  Data Overview
 
 * **Dataset:** UCI Credit Card Default Dataset (Taiwan)
 * **Total Records:** 30,000 customers
@@ -45,7 +45,7 @@ Predict potential defaulters in advance to:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 | Observation                        | Data Insight             | Business Impact                            |
 | ---------------------------------- | ------------------------ | ------------------------------------------ |
@@ -56,7 +56,7 @@ Predict potential defaulters in advance to:
 
 ---
 
-## 📈 Predictive Visualization (Power BI)
+##  Predictive Visualization (Power BI)
 
 **Visuals Used:**
 
@@ -69,7 +69,7 @@ Predict potential defaulters in advance to:
 
 ---
 
-## 🐍 Predictive Analysis (Python)
+##  Predictive Analysis (Python)
 
 ```python
 import seaborn as sns
@@ -86,7 +86,7 @@ plt.show()
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 | Area                | Recommendation                        | Expected Outcome             |
 | ------------------- | ------------------------------------- | ---------------------------- |
@@ -97,18 +97,18 @@ plt.show()
 
 ---
 
-## ⚙️ Model Deployment Plan
+##  Model Deployment Plan
 
 1. Export trained model (`model.pkl`)
 2. Integrate with CRM or bank dashboard
 3. Automate monthly prediction updates
 4. Store results in SQL database for monitoring
 
-✅ Enables **real-time defaulter prediction** each billing cycle
+ Enables **real-time defaulter prediction** each billing cycle
 
 ---
 
-## 🚧 Limitations & Next Steps
+##  Limitations & Next Steps
 
 | Limitation                | Next Step                                     |
 | ------------------------- | --------------------------------------------- |
@@ -119,7 +119,7 @@ plt.show()
 
 ---
 
-## 🧾 Executive Summary
+##  Executive Summary
 
 **Accuracy Achieved:** ~78%
 **Impact:**
@@ -130,19 +130,19 @@ plt.show()
 
 
 
-## 🔗 Resources
+##  Resources
 
-📄 Full Colab Notebook: [Google Colab Link](https://colab.research.google.com/drive/1zk1mQhbN24POsVmTskq6FlKHkkxdAH-N)
+ Full Colab Notebook: [Google Colab Link](https://colab.research.google.com/drive/1zk1mQhbN24POsVmTskq6FlKHkkxdAH-N)
 
-📄 Excel File:
+ Excel File:
 https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/UCI_Credit_Card.csv. 
 
-## 🧠 Key Takeaway
+##  Key Takeaway
 
 > Predictive analytics enables proactive decision-making.
 > By combining SQL, Python, and Power BI, financial institutions can **forecast risk and protect revenue** before defaults happen.
 
-## 🖥️ Dashboard
+##  Dashboard
 
 A Power BI dashboard was created showing key KPIs, defaulter trends, and customer segmentation for dynamic decision-making. 
 https://github.com/SaimKhan-05/Credit-Card-Defaulter-Analysis/blob/main/XYZ%20Bank%20Dashboard.pbix. 
